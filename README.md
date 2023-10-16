@@ -1,7 +1,8 @@
 # Travel-Website-Assignment
 <!DOCTYPE html>
 <html>
+<head>
 <body>
-<style>
-  {background-color:lightblue;}
-</style>
+<stlye>
+  body {background-color:#33FF77;}
+</stlye>
