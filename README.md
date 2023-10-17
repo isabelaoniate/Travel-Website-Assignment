@@ -3,9 +3,7 @@
 <html>
 <head>
 <style>
-p {
-  color: red;
-  text-align: center;
-}
+p {color: red;
+  text-align: center;}
 </style>
 <p>help</p>
